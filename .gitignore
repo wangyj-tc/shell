@@ -1,0 +1,7 @@
+log/
+#vendor/
+main
+.rpmbuild/
+.DS_Store
+#/conf/config.yaml
+/.idea
